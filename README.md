@@ -1,27 +1,169 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Sai Kiran Myadam</h1><br><h3 align="center">Cloud & DevOps Engineer @ Accenture | Azure | Terraform | Python</h3><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+Specialist;Terraform+Enthusiast;Infrastructure+as+Code+Believer;Always+Learning%2C+Always+Building" alt="Typing SVG" /><br></p><br><br>---<br><br>### 👨‍💻 About Me<br><br>- 🔭 I'm currently working on **Azure Cloud & DevOps projects** at Accenture<br>- 🌱 I'm learning **Terraform, Azure Functions, Logic Apps, and Event-driven architectures**<br>- 💼 1+ years of hands-on experience in **multi-cloud environments (AWS & Azure)**<br>- 🎓 Microsoft Certified: **Azure Fundamentals (AZ-900)**<br>- 📍 Based in **Hyderabad, Telangana, India**<br>- 💡 Building reliable cloud systems with **Infrastructure as Code**<br>- 📫 Reach me at: **sai14032001@gmail.com**<br><br>---<br><br>### 🚀 What I Do<br><br>```pythonclass SaiKiran:<br>def init(self):<br>self.name        = "Sai Kiran Myadam"<br>self.role        = "Associate Software Engineer"<br>self.company     = "Accenture"<br>self.location    = "Hyderabad, India"<br>self.experience  = "1+ years"<br>self.languages   = ["Python", "Bash", "HCL (Terraform)"]<br>self.cloud       = ["Azure ☁️", "AWS ☁️"]<br>self.tools       = ["Terraform", "Azure DevOps", "GitHub", "VS Code"]<br>self.currently   = "Building serverless architectures"def say_hi(self):<br>    print("Thanks for stopping by! Let's connect 🤝")me = SaiKiran()<br>me.say_hi()<br><br>---<br><br>### 🛠️ Tech Stack<br><br>#### ☁️ Cloud Platforms<br>![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)<br><br>#### 🏗️ Infrastructure as Code<br>![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<br><br>#### 🔄 DevOps & CI/CD<br>![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)<br><br>#### 💻 Programming<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)<br><br>#### 🛠️ Tools & Platforms<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br><br>---<br><br>### 📂 Featured Projects<br><br>🌐 **[Azure & Terraform Learning Portfolio](https://github.com/Kirannethas/Terraform-projects)**  <br>Hands-on Azure projects with complete Terraform IaC documentation.<br><br>🌍 **[Live Portfolio Website](https://saikiran-myadam.azurewebsites.net)**  <br>Personal portfolio built with Python Flask, deployed on Azure App Service.<br><br>⚡ **[Function App Infrastructure](https://func-saikiran-funcapp19.azurewebsites.net)**  <br>Serverless Azure Function App provisioned via Terraform.<br><br>---<br><br>### 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=Kirannethas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirannethas&theme=tokyonight" alt="GitHub Streak" /><br></p><br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirannethas&layout=compact&theme=tokyonight" alt="Top Languages" /><br></p><br><br>---<br><br>### 🏆 Certifications<br><br>- 🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)** — 2025<br><br>#### 🎯 Currently Pursuing:<br>- 🔄 AZ-104 (Azure Administrator Associate)<br>- 🔄 HashiCorp Terraform Associate<br><br>---<br><br>### 🎯 Goals for 2026<br><br>- [x] Build a portfolio website on Azure<br>- [x] Master Function App infrastructure with Terraform<br>- [ ] Complete AZ-104 certification<br>- [ ] Build end-to-end CI/CD pipelines<br>- [ ] Master Event-driven architectures (Event Hub, Event Grid)<br>- [ ] Contribute to open-source DevOps projects<br><br>---<br><br>### 📫 Let's Connect!<br><br><p align="center"><br>  <a href="https://linkedin.com/in/sai-kiranm"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>  </a><br>  <a href="mailto:sai14032001@gmail.com"><br>    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br>  </a><br>  <a href="https://saikiran-myadam.azurewebsites.net"><br>    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /><br>  </a><br></p><br><br>---<br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=Kirannethas&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" /><br></p><br><br><p align="center"><br>  <em>"The cloud is not a place, it's a way of doing IT."</em><br><br>  <strong>Always building. Always learning. Always automating. 🚀</strong><br></p>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kirannethas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-kiranm/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sai14032001@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kirannethas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kirannethas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kirannethas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kirannethas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kirannethas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Sai Kiran Myadam</h1>
+<h3 align="center">Cloud & DevOps Engineer | Azure | Terraform | Python</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kirannethas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am an Associate Software Engineer at **Accenture**, specializing in Cloud and 
+DevOps engineering with hands-on experience across multi-cloud environments 
+(Azure and AWS). I focus on building reliable, scalable infrastructure using 
+Infrastructure as Code principles.
+
+- **Role:** Associate Software Engineer — Cloud & DevOps
+- **Company:** Accenture
+- **Location:** Hyderabad, Telangana, India
+- **Experience:** 1+ years in multi-cloud environments
+- **Certification:** Microsoft Certified: Azure Fundamentals (AZ-900)
+- **Email:** sai14032001@gmail.com
+
+---
+
+## What I Do
+
+- Engineer enterprise-scale cloud infrastructure on Azure and AWS
+- Implement Infrastructure as Code using Terraform
+- Manage CI/CD pipelines with Azure DevOps and GitHub Actions
+- Lead production patching activities ensuring zero-downtime operations
+- Achieve 100% SLA compliance through proactive monitoring
+- Strengthen DevOps workflows for regulated client environments
+
+---
+
+## Tech Stack
+
+**Cloud Platforms**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**CI/CD and DevOps**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Programming and Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Containers and Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Version Control and Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+**[Azure and Terraform Learning Portfolio](https://github.com/Kirannethas/Terraform-projects)**  
+Comprehensive hands-on Azure projects with complete Terraform Infrastructure 
+as Code documentation. Includes detailed step-by-step deployment guides, 
+architecture diagrams, and learnings.
+
+**[Personal Portfolio Website](https://saikiran-myadam.azurewebsites.net)**  
+Production-grade portfolio website built with Python Flask and deployed on 
+Azure App Service using Terraform. Features REST API endpoints, responsive 
+design, and complete IaC deployment workflow.
+
+**[Function App Infrastructure](https://func-saikiran-funcapp19.azurewebsites.net)**  
+Serverless Azure Function App infrastructure provisioned entirely via 
+Terraform, including Storage Account, App Service Plan (Y1 Consumption), 
+Application Insights, and Linux Function App with Python 3.11 runtime.
+
+---
+
+## Core Competencies
+
+- Cloud infrastructure design and management (Azure, AWS)
+- Infrastructure as Code with Terraform
+- CI/CD pipeline development and optimization
+- Incident management and SLA compliance
+- Change management and production deployments
+- Cross-functional stakeholder communication
+- Agile and Scrum methodologies
+- Knowledge sharing and team enablement
+
+---
+
+## Certifications
+
+**Achieved:**
+- Microsoft Certified: Azure Fundamentals (AZ-900) — 2025
+
+**In Progress:**
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- HashiCorp Certified: Terraform Associate
+
+---
+
+## Current Learning Focus
+
+- Azure Functions and serverless architectures
+- Azure Logic Apps for workflow automation
+- Event-driven architectures with Event Hub and Event Grid
+- Azure Data Factory for data integration
+- Advanced Terraform patterns and modules
+- End-to-end CI/CD with Azure DevOps Pipelines
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kirannethas&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirannethas&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirannethas&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sai-kiranm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sai14032001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://saikiran-myadam.azurewebsites.net">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kirannethas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <em>Building reliable cloud systems through Infrastructure as Code, automation, and continuous learning.</em>
+</p>
